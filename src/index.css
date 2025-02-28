@@ -49,6 +49,7 @@ section .top-section select {
   color: white;
   font-size: 22px;
   margin-top: 10px;
+  text-align: center;
 }
 
 section .top-section h3 {
